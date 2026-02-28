@@ -103,3 +103,6 @@ src/
 - Minimum send amount is `0.0000001 XLM`
 
 Screenshots:
+
+![image alt](https://github.com/HrishiBanait/Stellar-Wallet/blob/main/Screenshots/Screenshot%202026-02-28%20145650.png?raw=true)
+
